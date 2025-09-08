@@ -22,7 +22,6 @@ export default function EmojiList({ onSelect, onCloseModal }: Props) {
     require("../assets/images/YUM.png"),
     require("../assets/images/emoji6.png"),
     require("../assets/images/puppy.png"),
-    require("../assets/images/rimuru.png"),
   ]);
 
   return (
